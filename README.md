@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ishvash</h1>
 
 
-- 🔭 I’m currently working on **data science dsa related projects**
+- 🔭 I’m currently working on **data science and dsa in c++ related projects**
 
 
 
