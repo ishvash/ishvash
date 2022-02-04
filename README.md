@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ishvash</h1>
-<h3 align="center">cout<<"A FRONTEND DEVELOPER FROM INDIA";</h3>
 
-- 🔭 I’m currently working on **frontend development and data science**
 
-- 🌱 I’m currently learning **python**
+- 🔭 I’m currently working on **data science dsa related projects**
+
+
 
 - ⚡ Fun fact **i communicate with people better using language of code**
 
