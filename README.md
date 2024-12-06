@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ishita!</h1>
-I'm a passionate Software Engineer with a keen interest in exploring and working with new technologies. I love contributing to online platforms and collaborating on exciting open-source projects.
 
+<p>I'm a passionate Software Engineer with a keen interest in exploring and working with new technologies. I love contributing to online platforms and collaborating on exciting open-source projects.</p>
 
 💻 Always eager to learn and grow, I'm open to new opportunities and challenging projects where I can make an impact with my skills and creativity.
 
