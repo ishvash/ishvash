@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm ishvash</h1>
-
-
-- 🔭 I’m currently working on **data science and dsa in c++ related projects**
-
-
+<h1 align="center">Hi 👋, I'm a Software Engineer</h1>
 
 - ⚡ Fun fact **i communicate with people better using language of code**
 
